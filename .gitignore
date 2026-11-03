@@ -1,0 +1,6 @@
+# Dataset (download separately, see README)
+dataset.csv
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
