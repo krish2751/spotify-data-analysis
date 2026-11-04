@@ -98,3 +98,7 @@ jupyter notebook spotify_analysis.ipynb
 Krish Patel (project lead), Smith Patel, Saumya Patel, Utsav Patel and Om Bagadia.
 
 **Tools:** Python, pandas, NumPy, SciPy, scikit-learn, Matplotlib, seaborn, Jupyter
+
+## License
+
+The code and documents in this repo are released under the [MIT License](LICENSE). The Spotify Tracks Dataset is distributed separately under its own BSD license.
