@@ -68,7 +68,11 @@ The popularity of collaborative tracks rises much more steeply with energy and d
 - Spotify's popularity score also reflects recency, playlist placement and marketing, which the dataset doesn't capture.
 - Collaborations are detected from separators in the artist field (`;`, `,`, `&`, `and`). These checks also match some single artists, such as names containing "and" ("Brandon") or band names with "&". As a result, some solo tracks are counted as collaborative.
 - Each regression uses a single feature, so the slopes describe associations, not a predictive model.
-- Where the report and the notebook differ, this README uses the notebook's output.
+- Where the report or presentation differ from the notebook, this README uses the notebook's output.
+
+## Presentation
+
+The team's narrated presentation (about 9 minutes) walks through the questions, method and findings: [Spotify_Data_Analysis_Presentation.mp4](presentation/Spotify_Data_Analysis_Presentation.mp4).
 
 ## Repository contents
 
@@ -76,6 +80,7 @@ The popularity of collaborative tracks rises much more steeply with energy and d
 | --- | --- |
 | `spotify_analysis.ipynb` | Full analysis with outputs and charts |
 | `report/Spotify_Data_Analysis_Report.pdf` | Final project report |
+| `presentation/Spotify_Data_Analysis_Presentation.mp4` | Narrated project presentation (about 9 minutes) |
 | `requirements.txt` | Python packages the notebook imports |
 
 ## Run it
