@@ -85,6 +85,8 @@ The team's narrated presentation (about 9 minutes) walks through the questions, 
 
 ## Run it
 
+The notebook was run with Python 3.12.
+
 ```bash
 pip install -r requirements.txt
 # download dataset.csv (see Data above) into this folder
